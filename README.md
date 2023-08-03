@@ -18,4 +18,5 @@
 | 4 | Chapter 4 HTTP Method |[Page](https://github.com/JaeHeee/http_study/blob/main/resource/http_method/http_method.md)|
 | 5 | Chapter 5 HTTP Method2 |[Page](https://github.com/JaeHeee/http_study/blob/main/resource/http_method2/http_method2.md)|
 | 6 | Chapter 6 HTTP Status Code |[Page](https://github.com/JaeHeee/http_study/blob/main/resource/http_status_code/http_status_code.md)|
+| 7 | Chapter 7 HTTP Header |[Page](https://github.com/JaeHeee/http_study/blob/main/resource/http_header/http_header.md)|
 
